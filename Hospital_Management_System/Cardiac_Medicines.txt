@@ -1,0 +1,6 @@
+[Name		Cost		Expiry Date		Used For:	
+, Loprin	500		   2/5/2023	       Lowering Blood Pressures
+, Asprin	400		   6/7/2034	       prevent blood clots
+, Statins	300		   13/8/2034	   Lower cholesterol levels
+]Blood_Thiners	500.0	25/6/2025	   Prevention
+lisinopril	500.0		23/9/2022	Improve_heart_functioning

@@ -1,0 +1,4 @@
+Eye_Ointment	100.0		2/5/2023	Eyes_irritation
+[Name		Cost		Expiry Date		Used For:	
+, Acetylzolamide		1000		12/3/2029		Dry eyes
+, Azelstine		600		3/5/2022		Alergies]

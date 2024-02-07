@@ -1,0 +1,5 @@
+Pain_Killer	200.0		4/5/2029	Pain_releif
+[Name		Cost		Expiry Date		Used For:	
+, ibrufen		400		2/4/20222
+, naproxen		600		6/8/2024
+]

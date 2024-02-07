@@ -1,0 +1,4 @@
+[Name		Cost		Expiry Date		Used For:	
+, Diazepam		500		3/8/2022		Anxiety
+, Atomoxetine		300		6/7/2029		HyperActivity Diorder
+]Alprazolam	700.0		21/3/2023	Disorders
